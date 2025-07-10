@@ -1,0 +1,53 @@
+/* assets/css/custom.css */
+
+@font-face {
+  font-family: 'b-font';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/b.woff2') format('woff2'), /* Modern Browsers */
+       url('../fonts/b-light.woff2') format('woff2'); /* Fallback */
+}
+
+@font-face {
+  font-family: 'b-font';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/b-italic.woff2') format('woff2');
+}
+
+body {
+  font-family: 'b-font';
+  background-color: white;
+}
+
+.highlight {
+  position: relative; /* Needed for absolute positioning of the button */
+}
+
+.chroma {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.copy-button {
+  position: absolute;
+  top: 0.5em;
+  right: 0.5em;
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 0.3em 0.6em;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 0.8em;
+  opacity: 0; /* Hidden by default */
+  transition: opacity 0.3s ease-in-out;
+}
+
+.chroma:hover .copy-button {
+  opacity: 1; /* Show on hover */
+}
+
+.copy-button:hover {
+  background-color: #555;
+}
