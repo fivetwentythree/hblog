@@ -5,6 +5,6 @@ draft: false
 description: "musings on the iternity"
 ---
 
-## this has been some fundamental problem 
+### this has been some fundamental problem 
 
 if someone tells you what to do in the futute what would you answer?
