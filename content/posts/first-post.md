@@ -46,7 +46,7 @@ this is how markdown appear
 
 this is how this render
 
-![this is a screenshot](/images/screenshot.png)
+![this is a screenshot](/hblog/images/screenshot.png)
        this is how a image will render
 
 ## Math
