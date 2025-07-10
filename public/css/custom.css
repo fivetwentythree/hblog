@@ -4,8 +4,8 @@
   font-family: 'b-font';
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/b.woff2') format('woff2'), /* Modern Browsers */
-       url('/fonts/b-light.woff2') format('woff2'); /* Fallback */
+  src: url('../fonts/b.woff2') format('woff2'), /* Modern Browsers */
+       url('../fonts/b-light.woff2') format('woff2'); /* Fallback */
 }
 
 @font-face {
