@@ -8,12 +8,15 @@ this is the first ever post
 
 How completely had Rome now lost the greatness which she once
 possessed! patriotism had faded from the empire; the spirit of
-liberty had expired.  If republican forms remained, the life which
+liberty had expired.  
+
+If republican forms remained, the life which
 had once animated them was gone, and they were made the covering for
 despotic practices, and oriental courtiership.  Laws no longer
 depended on the decrees of the senate, but on the rescripts of
 emperors, and government sank into a fearful despotism,--the
 punishment, under Divine Providence, of states unfaithful to liberty.
+
 It has been often observed, that despotism was the only kind of rule
 which could hold the Roman empire together during the last age of its
 history: but what a striking proof does that fact present of the
@@ -25,20 +28,6 @@ def thisfunction():
 
 ```
 
-Many of their mansions might excuse the exaggeration
-of the poet, that Rome contained a multitude of palaces, and that
-each palace was equal to a city; since it included within its own
-precincts everything which could be subservient either to use or
-luxury--markets, hippodromes, temples, fountains, baths, porticoes,
-shady groves, and artificial aviaries."[3]  A remarkable instance of
-Roman splendour, belonging to an earlier period, is afforded in the
-account we have of the house of Scaurus, which was valued at a sum
-equal to £885,000 of our money.  A distinguished antiquary has given
-a fancy picture of the dining-room in this palace, which was probably
-equalled in some of the Roman houses of a later date.  He describes
-the apartment as divided into two portions; the upper occupied by
-tables and couches, the lower left empty for the convenience of
-attendants. 
 
 ```md
 this is how markdown appear
