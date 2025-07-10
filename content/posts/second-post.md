@@ -8,3 +8,6 @@ description: "musings on the iternity"
 ### this has been some fundamental problem 
 
 if someone tells you what to do in the futute what would you answer?
+- this is the function look like 
+- then this happens which is not something many would suspect
+- then I need to find something which would break it
