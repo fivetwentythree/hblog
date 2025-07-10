@@ -1,0 +1,20 @@
+- i need to develop blog site based of the of the Hugo theme I have provided with the context [entire code base is given as context]
+
+- and I need to add a custom font to the blog and it should come with the normal version and the italic version 
+- I need to host the site using GitHub pages but in a repository like mygithubusername.github.io/hugoblog
+
+- and I am planning to go for a custom domain in the future so make reservations[include the instructions] for that too.[this is not a priority]
+
+- don't use the example site on in the theme to build, I need to populate with my own content.
+
+- and I dont like how the code blocks has been implemented in the theme, so tell me how can I add code blocks according to the best practices to a blog like this
+
+- please use the state of the art practices when coding this thing up 
+
+- the site has to be performant as hell, use best practices all the time 
+
+- specifications of my local computer is like this - m4 MacBook Pro, brew and git(connect via ssh) installed  
+
+- Think deep(more like ultrathink in other llms- this is like telling you to think more) and if you can use the maximum allowable thinking budget you can spare 
+
+- this process doesn't have to be a one shot thing you don't need to one shot everything, make this an iterative process

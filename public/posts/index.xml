@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Your Blog&#39;s Title</title>
+    <link>http://localhost:1313/hblog/posts/</link>
+    <description>Recent content in Posts on Your Blog&#39;s Title</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jun 2025 18:10:05 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/hblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biking the European Divide Trail</title>
+      <link>http://localhost:1313/hblog/posts/first-post/</link>
+      <pubDate>Wed, 18 Jun 2025 18:10:05 +0200</pubDate>
+      <guid>http://localhost:1313/hblog/posts/first-post/</guid>
+      <description>&lt;p&gt;this is the first ever post&lt;/p&gt;&#xA;&lt;p&gt;How completely had Rome now lost the greatness which she once&#xA;possessed! patriotism had faded from the empire; the spirit of&#xA;liberty had expired.  If republican forms remained, the life which&#xA;had once animated them was gone, and they were made the covering for&#xA;despotic practices, and oriental courtiership.  Laws no longer&#xA;depended on the decrees of the senate, but on the rescripts of&#xA;emperors, and government sank into a fearful despotism,&amp;ndash;the&#xA;punishment, under Divine Providence, of states unfaithful to liberty.&#xA;It has been often observed, that despotism was the only kind of rule&#xA;which could hold the Roman empire together during the last age of its&#xA;history: but what a striking proof does that fact present of the&#xA;thoroughly corrupt state of Roman civilisation!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
