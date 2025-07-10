@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Your Blog&#39;s Title</title>
-    <link>http://localhost:1313/hblog/</link>
+    <link>https://fivetwentythree.github.io/hblog/</link>
     <description>Recent content on Your Blog&#39;s Title</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Jun 2025 18:10:05 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/hblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fivetwentythree.github.io/hblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A new way to see the world</title>
+      <link>https://fivetwentythree.github.io/hblog/posts/second-post/</link>
+      <pubDate>Wed, 18 Jun 2025 18:10:05 +0200</pubDate>
+      <guid>https://fivetwentythree.github.io/hblog/posts/second-post/</guid>
+      <description>&lt;h3 id=&#34;this-has-been-some-fundamental-problem&#34;&gt;this has been some fundamental problem&lt;/h3&gt;&#xA;&lt;p&gt;if someone tells you what to do in the futute what would you answer?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;this is the function look like&lt;/li&gt;&#xA;&lt;li&gt;then this happens which is not something many would suspect&lt;/li&gt;&#xA;&lt;li&gt;then I need to find something which would break it&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Biking the European Divide Trail</title>
-      <link>http://localhost:1313/hblog/posts/first-post/</link>
+      <link>https://fivetwentythree.github.io/hblog/posts/first-post/</link>
       <pubDate>Wed, 18 Jun 2025 18:10:05 +0200</pubDate>
-      <guid>http://localhost:1313/hblog/posts/first-post/</guid>
-      <description>&lt;p&gt;this is the first ever post&lt;/p&gt;&#xA;&lt;p&gt;How completely had Rome now lost the greatness which she once&#xA;possessed! patriotism had faded from the empire; the spirit of&#xA;liberty had expired.  If republican forms remained, the life which&#xA;had once animated them was gone, and they were made the covering for&#xA;despotic practices, and oriental courtiership.  Laws no longer&#xA;depended on the decrees of the senate, but on the rescripts of&#xA;emperors, and government sank into a fearful despotism,&amp;ndash;the&#xA;punishment, under Divine Providence, of states unfaithful to liberty.&#xA;It has been often observed, that despotism was the only kind of rule&#xA;which could hold the Roman empire together during the last age of its&#xA;history: but what a striking proof does that fact present of the&#xA;thoroughly corrupt state of Roman civilisation!&lt;/p&gt;</description>
+      <guid>https://fivetwentythree.github.io/hblog/posts/first-post/</guid>
+      <description>&lt;p&gt;this is the first ever post&lt;/p&gt;&#xA;&lt;p&gt;How completely had Rome now lost the greatness which she once&#xA;possessed! patriotism had faded from the empire; the spirit of&#xA;liberty had expired.&lt;/p&gt;&#xA;&lt;p&gt;If republican forms remained, the life which&#xA;had once animated them was gone, and they were made the covering for&#xA;despotic practices, and oriental courtiership.  Laws no longer&#xA;depended on the decrees of the senate, but on the rescripts of&#xA;emperors, and government sank into a fearful despotism,&amp;ndash;the&#xA;punishment, under Divine Providence, of states unfaithful to liberty.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/hblog/_about/</link>
+      <link>https://fivetwentythree.github.io/hblog/_about/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hblog/_about/</guid>
+      <guid>https://fivetwentythree.github.io/hblog/_about/</guid>
       <description>&lt;p&gt;this is my first ever blog see how it works.&lt;a href=&#34;https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc&#34;&gt;Technische Universität München&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/hblog/_contact/</link>
+      <link>https://fivetwentythree.github.io/hblog/_contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hblog/_contact/</guid>
+      <guid>https://fivetwentythree.github.io/hblog/_contact/</guid>
       <description>&lt;p&gt;contact at : someone [at] gmail.com&lt;/p&gt;</description>
     </item>
   </channel>

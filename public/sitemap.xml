@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hblog/posts/first-post/</loc>
+    <loc>https://fivetwentythree.github.io/hblog/posts/second-post/</loc>
     <lastmod>2025-06-18T18:10:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hblog/posts/</loc>
+    <loc>https://fivetwentythree.github.io/hblog/posts/first-post/</loc>
     <lastmod>2025-06-18T18:10:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hblog/</loc>
+    <loc>https://fivetwentythree.github.io/hblog/posts/</loc>
     <lastmod>2025-06-18T18:10:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hblog/_about/</loc>
+    <loc>https://fivetwentythree.github.io/hblog/</loc>
+    <lastmod>2025-06-18T18:10:05+02:00</lastmod>
+  </url><url>
+    <loc>https://fivetwentythree.github.io/hblog/_about/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hblog/_contact/</loc>
+    <loc>https://fivetwentythree.github.io/hblog/_contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/hblog/categories/</loc>
+    <loc>https://fivetwentythree.github.io/hblog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/hblog/tags/</loc>
+    <loc>https://fivetwentythree.github.io/hblog/tags/</loc>
   </url>
 </urlset>
